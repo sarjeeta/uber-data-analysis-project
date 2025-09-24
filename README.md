@@ -6,7 +6,6 @@
 This project involves analyzing Uber ride data to uncover insights into customer behavior, booking patterns, pricing trends, and more. The analysis is conducted using Python and powerful libraries such as `pandas`, `matplotlib`, and `seaborn`.
 
 ##  Files
-
 - `uber.ipynb`: The main Jupyter Notebook containing the full exploratory data analysis (EDA) on Uber ride data.
 
 ##  Features and Analysis Covered
@@ -55,12 +54,3 @@ pip install pandas matplotlib seaborn
 - Bookings peak during November month.
 - Price increases as the travel date approaches.
 - Business class significantly increases average fare.
-
-##  Contributing
-
-Feel free to fork the repo and submit pull requests if you'd like to expand the analysis or add new visualizations.
-
-## Contact
-
-Created by **Ratnakar Jha**  
-For questions, contact at: [ratnakarjha2007@gmail.com]
